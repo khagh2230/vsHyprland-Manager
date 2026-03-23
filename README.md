@@ -211,6 +211,19 @@ Every **Apply** also creates a timestamped snapshot of all modified files:
 
 ---
 
+## ⚠️ Disclaimer
+
+vsHyprland Manager reads and **writes** your Hyprland configuration files. While it creates automatic backups before every change, there is always a risk of data loss or misconfiguration — especially on untested setups.
+
+- **Back up your `~/.config/hypr/` folder before first use**
+- This software is provided **as-is**, with no warranty of any kind
+- The author is not responsible for broken configs, lost settings, or any damage to your system
+- Always verify your config works after applying changes (`hyprctl reload`)
+
+> Tested only on Arch Linux + Hyprland. Use on other distributions at your own risk.
+
+---
+
 ## License
 
 MIT — do whatever you want, credit appreciated.
