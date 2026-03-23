@@ -31,9 +31,9 @@ package() {
     install -Dm644 vshyprland-manager.desktop \
         "$pkgdir/usr/share/applications/vshyprland-manager.desktop"
 
-    # icon
+    # icon (512x512 — closest standard size to our 1024px source)
     install -Dm644 vshyprland-manager.png \
-        "$pkgdir/usr/share/icons/hicolor/1024x1024/apps/vshyprland-manager.png"
+        "$pkgdir/usr/share/icons/hicolor/512x512/apps/vshyprland-manager.png"
 
     # license
     install -Dm644 LICENSE \
