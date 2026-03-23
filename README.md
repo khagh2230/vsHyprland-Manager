@@ -84,6 +84,12 @@ Developed and tested exclusively on:
 
 ## Installation
 
+### AUR (recommended)
+
+```bash
+yay -S vshyprland-manager
+```
+
 ### Manual
 
 ```bash
