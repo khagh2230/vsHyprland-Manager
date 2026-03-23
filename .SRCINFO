@@ -12,6 +12,6 @@ pkgbase = vshyprland-manager
 	optdepends = hyprexpo: overview plugin configuration support
 	optdepends = hyprfocus: focus animation plugin configuration support
 	source = vshyprland-manager-1.0.0.tar.gz::https://github.com/victorsosaMx/vsHyprland-Manager/archive/refs/tags/v1.0.0.tar.gz
-	sha256sums = SKIP
+	sha256sums = 2a953123f58e52b7eaf07f61ac1540dab21f6b8c595845b26ad72d43004060ac
 
 pkgname = vshyprland-manager
